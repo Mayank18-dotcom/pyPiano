@@ -397,5 +397,4 @@ Select_Button.grid(row=10, column=1)
 conn.commit()
 #Close the database (Optional) since Sqlite3 does it automatically
 conn.close()
-
 mainloop()
